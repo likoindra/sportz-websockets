@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c74b38e2-9d1d-482b-a2c4-fea8e8f2d5e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arcjet.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ws/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ws/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +33,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feat/arcjet",
     "javascript.nodejs.core.library.configured.version": "20.12.2",
     "javascript.nodejs.core.library.typings.version": "20.12.14",
     "junie.onboarding.icon.badge.shown": "true",
@@ -47,6 +42,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "to.speed.mode.migration.done": "true",
     "ts.external.directory.path": "/Users/likoindrahartawan/Documents/liko's/yt/sportz/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
@@ -79,6 +75,9 @@
       <workItem from="1777861483693" duration="2685000" />
       <workItem from="1778466755378" duration="798000" />
       <workItem from="1778482198418" duration="4309000" />
+      <workItem from="1781268124076" duration="12000" />
+      <workItem from="1781353920381" duration="3506000" />
+      <workItem from="1781777335141" duration="5671000" />
     </task>
     <servers />
   </component>
